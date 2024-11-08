@@ -1,0 +1,14 @@
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\bin\Debug\net8.0\usrs46_1.exe
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\bin\Debug\net8.0\usrs46_1.deps.json
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\bin\Debug\net8.0\usrs46_1.runtimeconfig.json
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\bin\Debug\net8.0\usrs46_1.dll
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\bin\Debug\net8.0\usrs46_1.pdb
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.AssemblyInfoInputs.cache
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.AssemblyInfo.cs
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.csproj.CoreCompileInputs.cache
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.dll
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\refint\usrs46_1.dll
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.pdb
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\usrs46_1.genruntimeconfig.cache
+C:\Users\gross\source\repos\usrs46_1\usrs46_1\obj\Debug\net8.0\ref\usrs46_1.dll
