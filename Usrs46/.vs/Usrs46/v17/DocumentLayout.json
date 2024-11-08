@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\bien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\proprietaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|c:\\users\\gross\\onedrive\\bureau\\luka\\taf\\project\\usrs46\\usrs46\\usrs46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36ED1335-5FDC-419E-953B-C3788DD1C5D0}|Usrs46\\Usrs46.csproj|solutionrelative:usrs46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Program.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Program.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Program.cs",
+              "RelativeToolTip": "Usrs46\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:41.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Terrain.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Terrain.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Terrain.cs",
+              "RelativeToolTip": "Usrs46\\Terrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proprietaire.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Proprietaire.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Proprietaire.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Proprietaire.cs",
+              "RelativeToolTip": "Usrs46\\Proprietaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Piece.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Piece.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Piece.cs",
+              "RelativeToolTip": "Usrs46\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:41.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maison.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Maison.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Maison.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Maison.cs",
+              "RelativeToolTip": "Usrs46\\Maison.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bien.cs",
+              "DocumentMoniker": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Bien.cs",
+              "RelativeDocumentMoniker": "Usrs46\\Bien.cs",
+              "ToolTip": "C:\\Users\\gross\\OneDrive\\Bureau\\Luka\\taf\\project\\usrs46\\Usrs46\\Usrs46\\Bien.cs",
+              "RelativeToolTip": "Usrs46\\Bien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:35:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
