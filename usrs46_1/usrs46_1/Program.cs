@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace Usrs46_1
+namespace usrs46_1
 {
     public class Program
     {
@@ -20,6 +20,15 @@ namespace Usrs46_1
             {
                 Console.WriteLine(B);
             }
+
+            Proprietaire Elodie = new Proprietaire("Martin", "Elodie", new Bien[] { UneMaison, UnTerrain });
+            Console.WriteLine(Elodie);
+
+            Proprietaire Marc = new Proprietaire("Dupont", "Marc", new Bien[] { UneAutreMaison, UneDerniereMaison, UnAutreTerrain });
+            Console.WriteLine(Marc);
+
+            Proprietaire Leo = new Proprietaire("Marin", "Leo", new Bien[0]);
+            Console.WriteLine(Leo);
         }
     }
 }

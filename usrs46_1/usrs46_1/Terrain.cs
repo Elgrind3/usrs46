@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace Usrs46_1
+namespace usrs46_1
 {
     public class Terrain : Bien
     {
